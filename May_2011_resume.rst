@@ -131,3 +131,5 @@ PROFESSIONAL ACTIVITIES & ASSOCIATIONS
 **WAURISA GIS CONFERENCE, 2010 Speaker:** 
   *Making Open Source Sing,* (http://www.waurisa.org/conferences/2010/presentations/318_Roger_Andre_Making_Open_Source_Sing.pdf)
 
+**Cascadia User Group of Open Source Geo (CUGOS):**
+  *Member since 2008*
