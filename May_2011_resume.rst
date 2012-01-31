@@ -103,7 +103,7 @@ PROFESSIONAL EXPERIENCE
   - *Technical Support Specialist:* Database administration, installation and troubleshooting of UNIX/Linux-based system.
   - *Product Engineer:* Integration of 3rd party web-based search interfaces with proprietary database.
   - *Systems Librarian:*  Database management and support of commercial reference databases.
-                                                                 
+
 EDUCATION
 ---------
 **COLORADO STATE UNIVERSITY, FORT COLLINS, CO, Bachelor of Science, Natural Resource Management:**
@@ -122,13 +122,13 @@ EDUCATION
 
 PROFESSIONAL ACTIVITIES & ASSOCIATIONS
 --------------------------------------
-**CalGIS CONFERENCE, 2007 Speaker:** 
+**CalGIS CONFERENCE, 2007 Speaker:**
   *Using Region-based KML to Display Large Data Sets in Google Earth*
 
-**WAURISA GIS CONFERENCE, 2009 Speaker:** 
+**WAURISA GIS CONFERENCE, 2009 Speaker:**
   *Using GDAL/OGR for Data Processing and Analysis,* (http://download.osgeo.org/gdal/presentations/OpenSource_Weds_Andre_CUGOS.pdf)
 
-**WAURISA GIS CONFERENCE, 2010 Speaker:** 
+**WAURISA GIS CONFERENCE, 2010 Speaker:**
   *Making Open Source Sing,* (http://www.waurisa.org/conferences/2010/presentations/318_Roger_Andre_Making_Open_Source_Sing.pdf)
 
 **Cascadia User Group of Open Source Geo (CUGOS):**
